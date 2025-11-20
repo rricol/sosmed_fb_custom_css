@@ -10,30 +10,45 @@
     border-radius: 20px;
 }
 
+#wrapper {
+    background: none;
+}
+
+.clearfix {
+    overflow: visible;
+}
+
+.box-inner {
+    border: none;
+}
+
 #project-name {
     font-weight: normal;
     font-size: 18px !important;
     color: #1b2747 !important;
+    border-color: #1b2747 !important;
 }
 
 #donate-button {
   background-image: none !important;
-  position: static;
-  padding: 0.625rem 2rem;
-  border-style: solid;
-  border-width: 1px;
-  border-color: #e83e1b;
-  border-radius: 24px;
-  background-color: #e83e1b;
-  transition-property: all;
-  transition-duration: 200ms;
-  transition-timing-function: ease;
-  color: white;
-  font-size: 1.125rem;
-  font-weight: 600;
-  text-align: center;
-  text-decoration: none;
+  position: static !important;
+  padding: 0.625rem 2rem !important;
+  border-style: solid !important;
+  border-width: 1px !important;
+  border-color: #e83e1b !important;
+  border-radius: 24px !important;
+  background-color: #e83e1b !important;
+  transition-property: all !important;
+  transition-duration: 200ms !important;
+  transition-timing-function: ease !important;
+  color: white !important;
+  font-size: 1.125rem !important;
+  font-weight: 600 !important;
+  text-align: center !important;
+  text-decoration: none !important;
   text-transform: uppercase;
+  text-shadow: none !important;
+  box-shadow: none  !important;
 }
 
 #donate-button:hover {
