@@ -1,4 +1,5 @@
 .progressbar {
+    background: unset;
 	background-color: #f3f3f3 !important;
 }
 
@@ -9,6 +10,7 @@
 }
 
 #donate-button {
+  background-image: unset;
   position: static;
   padding: 0.625rem 2rem;
   border-style: solid;
@@ -47,4 +49,5 @@
 #donation-goal {
     font-size: .875rem;
     color: #1b2747;
+    top: 10px;
 }
