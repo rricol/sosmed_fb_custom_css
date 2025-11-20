@@ -1,6 +1,13 @@
+#box-inner {
+    background-color: transparent;
+    border: none;
+    width: 100%;
+}
+
 .progressbar {
-    background: unset;
+    background: none !important;
 	background-color: #f3f3f3 !important;
+    border-radius: 20px;
 }
 
 #project-name {
@@ -10,7 +17,7 @@
 }
 
 #donate-button {
-  background-image: unset;
+  background-image: none !important;
   position: static;
   padding: 0.625rem 2rem;
   border-style: solid;
@@ -34,7 +41,9 @@
 }
 
 .progressbar-done {
+    background: none !important;
     background-color: #e83e1b;
+    border-radius: 20px;
 }
 
 .progressbar-text-shadow {
