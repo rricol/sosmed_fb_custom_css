@@ -46,5 +46,7 @@
 }
 
 #donation-goal {
-    display: none;
+    font-size: .875rem;
+    color: #1b2747;
+    top: 10px;
 }
