@@ -1,0 +1,50 @@
+#box-inner {
+    background-color: transparent;
+    border: none;
+    width: 100%;
+}
+
+.progressbar {
+    background: none !important;
+	background-color: #f3f3f3 !important;
+    border-radius: 20px;
+}
+
+#wrapper {
+    background: none;
+}
+
+.clearfix {
+    overflow: visible;
+}
+
+.box-inner {
+    border: none;
+}
+
+#project-name {
+    display: none;
+}
+
+#donate-button {
+  display: none;
+}
+
+.progressbar-done {
+    background: none !important;
+    background-color: #e83e1b;
+    border-radius: 20px;
+}
+
+.progressbar-text-shadow {
+    display: none;
+}
+
+.progressbar-text {
+    font-size: 1rem;
+    color: #1b2747;
+}
+
+#donation-goal {
+    display: none;
+}
