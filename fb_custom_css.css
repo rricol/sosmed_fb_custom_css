@@ -11,7 +11,7 @@
 }
 
 #wrapper {
-    background: none;
+    background: none !important;
 }
 
 .clearfix {

@@ -48,6 +48,5 @@
 }
 
 #donation-goal {
-    font-size: .875rem;
-    color: #1b2747; 
+    display: none
 }
