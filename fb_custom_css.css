@@ -10,6 +10,7 @@
     background: none !important;
 	background-color: #f3f3f3 !important;
     border-radius: 20px;
+    overflow: hidden;
 }
 
 #wrapper {
@@ -58,9 +59,8 @@
 }
 
 .progressbar-done {
-    background: none !important;
+    background: none;
     background-color: #e83e1b;
-    border-radius: 20px;
 }
 
 .progressbar-text-shadow {
